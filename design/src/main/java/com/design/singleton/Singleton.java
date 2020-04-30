@@ -1,7 +1,4 @@
-package com.singleton.controller;
-
-import org.springframework.context.annotation.Bean;
-import org.springframework.stereotype.Component;
+package com.design.singleton;
 
 import java.util.Objects;
 

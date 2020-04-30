@@ -8,11 +8,11 @@
         <version>2.2.5.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.singleton</groupId>
-    <artifactId>singleton</artifactId>
+    <groupId>com.design</groupId>
+    <artifactId>design</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>singleton</name>
-    <description>singleton pattern</description>
+    <name>design</name>
+    <description>design pattern</description>
 
     <properties>
         <java.version>1.8</java.version>
