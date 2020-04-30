@@ -1,4 +1,4 @@
-package com.design.singleton;
+package com.singleton.singleton;
 
 import java.util.Objects;
 

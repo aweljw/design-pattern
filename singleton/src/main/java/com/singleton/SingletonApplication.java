@@ -1,6 +1,6 @@
-package com.design;
+package com.singleton;
 
-import com.design.singleton.Singleton;
+import com.singleton.singleton.Singleton;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
