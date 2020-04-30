@@ -1,4 +1,4 @@
-package com.design.adapter;
+package com.adapter;
 
 public class MP4 implements MediaPackage{
 	

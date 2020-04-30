@@ -1,4 +1,4 @@
-package com.design.adapter;
+package com.adapter;
 
 public class FormatAdapter implements MediaPlayer {
 
